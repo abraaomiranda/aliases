@@ -5,7 +5,7 @@ Simple aliases for working with git, rails and node
 ### Instalation ###
 Simply open up your ~/.bash_profile and copy/paste the raw script in or:
 * Download this script
-* vi ~/.bash_profile
+* ` vi ~/.bash_profile `
 * add 'source <path/to/script>' to your bash_profile
 
 Reload your terminal and you're good to go.
